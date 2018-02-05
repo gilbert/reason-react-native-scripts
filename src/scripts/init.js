@@ -10,9 +10,9 @@ import install from '../util/install';
 
 // UPDATE DEPENDENCY VERSIONS HERE
 const DEFAULT_DEPENDENCIES = {
-  expo: '^24.0.0',
-  react: '16.0.0',
-  'react-native': '0.51.0',
+  expo: '^25.0.0',
+  react: '16.2.0',
+  'react-native': '0.52.0',
   'bs-platform': '^2.1.0',
   'bs-react-native': '~0.5.0',
   'reason-react': '~0.3.0',
